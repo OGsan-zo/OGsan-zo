@@ -46,16 +46,6 @@ I strongly believe that ambitious projects grow faster and better through **team
 
 ---
 
-## 🎵 Beyond Code
-
-When I’m not coding, I enjoy:
-
-* 📚 Reading books & watching documentaries
-* 🌍 Discovering new ideas and perspectives
-* 🏀 Playing basketball
-
----
-
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
