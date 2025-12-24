@@ -19,14 +19,18 @@ I strongly believe that ambitious projects grow faster and better through **team
 ---
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧩 Frameworks
+</div>
 
 <div align="center">
+
+### 🧩 Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
@@ -35,11 +39,12 @@ I strongly believe that ambitious projects grow faster and better through **team
 
 </div>
 
+<div align="center">
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+</div>
 ---
 
 ## 🚀 What Defines Me
@@ -54,7 +59,9 @@ I strongly believe that ambitious projects grow faster and better through **team
 
 ## 📫 Let’s Connect
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
+</div>
 
 📍 Antananarivo, Madagascar 🇲🇬
