@@ -1,5 +1,7 @@
 # 👑 Hi, I’m Zo Heriniaina Antonio RANDRIANANDRIANINA
 
+![Profile Views](https://komarev.com/ghpvc/?username=ogsan-zo&style=for-the-badge&color=0A66C2)
+
 💻 **Computer Science Student | Backend & Web Developer**
 🎓 IT University Andoharanofotsy – Madagascar 🇲🇬
 
