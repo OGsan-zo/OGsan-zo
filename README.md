@@ -17,16 +17,6 @@ What drives me most is **understanding how things work internally** — from fra
 I strongly believe that ambitious projects grow faster and better through **teamwork, discipline, and continuous learning**.
 
 ---
-
-## 🚀 What Defines Me
-
-* ⚡ Fast learner & adaptable
-* 🧠 Passionate about backend architecture & frameworks
-* 🔍 Curious problem solver
-* 💡 Quality-oriented mindset
-* 🌱 Always learning, always improving
-
----
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -44,6 +34,16 @@ I strongly believe that ambitious projects grow faster and better through **team
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
+
+## 🚀 What Defines Me
+
+* ⚡ Fast learner & adaptable
+* 🧠 Passionate about backend architecture & frameworks
+* 🔍 Curious problem solver
+* 💡 Quality-oriented mindset
+* 🌱 Always learning, always improving
+  
 ---
 
 ## 📫 Let’s Connect
