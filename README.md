@@ -40,10 +40,13 @@ I strongly believe that ambitious projects grow faster and better through **team
 </div>
 
 <div align="center">
+
 ### 🗄️ Databases
+  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 </div>
 ---
 
