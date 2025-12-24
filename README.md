@@ -65,6 +65,6 @@ When I’m not coding, I enjoy:
 ## 📫 Let’s Connect
 
 * 💼 LinkedIn: *(add your link)*
-* 📧 Email: *(add your email)*
+* 📧 Email: *zoheriniaina.antonio@gmail.com*
 
 📍 Antananarivo, Madagascar 🇲🇬
