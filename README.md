@@ -48,6 +48,7 @@ I strongly believe that ambitious projects grow faster and better through **team
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
+
 ---
 
 ## 🚀 What Defines Me
@@ -63,8 +64,10 @@ I strongly believe that ambitious projects grow faster and better through **team
 ## 📫 Let’s Connect
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
+
 </div>
 
 📍 Antananarivo, Madagascar 🇲🇬
