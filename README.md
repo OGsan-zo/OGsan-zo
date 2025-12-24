@@ -44,6 +44,12 @@ I strongly believe that ambitious projects grow faster and better through **team
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+--- 
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ogsan-zo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogsan-zo&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🎵 Beyond Code
