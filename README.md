@@ -27,9 +27,6 @@ I strongly believe that ambitious projects grow faster and better through **team
 * 🌱 Always learning, always improving
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
