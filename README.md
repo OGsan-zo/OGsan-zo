@@ -58,8 +58,7 @@ When I’m not coding, I enjoy:
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zo%20Heriniaina%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
-[![Email](https://img.shields.io/badge/Email-zoheriniaina.antonio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
 
 📍 Antananarivo, Madagascar 🇲🇬
