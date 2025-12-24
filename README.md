@@ -44,12 +44,6 @@ I strongly believe that ambitious projects grow faster and better through **team
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
---- 
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ogsan-zo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogsan-zo&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎵 Beyond Code
@@ -64,7 +58,8 @@ When I’m not coding, I enjoy:
 
 ## 📫 Let’s Connect
 
-* 💼 LinkedIn: *(add your link)*
-* 📧 Email: *zoheriniaina.antonio@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zo%20Heriniaina%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-heriniaina-antonio-randrianandrianina-958495394/)
+[![Email](https://img.shields.io/badge/Email-zoheriniaina.antonio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
+
 
 📍 Antananarivo, Madagascar 🇲🇬
