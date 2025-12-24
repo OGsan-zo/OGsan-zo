@@ -3,7 +3,7 @@
 💻 **Computer Science Student | Backend & Web Developer**
 🎓 IT University Andoharanofotsy – Madagascar 🇲🇬
 
-> *“I don’t code just to make programs work. I code to understand, solve problems, and create value.”*
+> 💡 “I don’t write code to feel busy. I write it with purpose, to create solutions that make a real difference.”
 
 ---
 
