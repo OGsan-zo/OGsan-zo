@@ -3,7 +3,7 @@
 💻 **Computer Science Student | Backend & Web Developer**
 🎓 IT University Andoharanofotsy – Madagascar 🇲🇬
 
-> 💡 “I don’t write code to feel busy. I write it with purpose, to create solutions that make a real difference.”
+> 💡 “I don’t write code to feel busy. I write it with purpose, to create solutions that make a real difference”
 
 ---
 
