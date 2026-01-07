@@ -52,16 +52,6 @@ I strongly believe that ambitious projects grow faster and better through **team
 
 ---
 
-## 🚀 What Defines Me
-
-* ⚡ Fast learner & adaptable
-* 🧠 Passionate about backend architecture & frameworks
-* 🔍 Curious problem solver
-* 💡 Quality-oriented mindset
-* 🌱 Always learning, always improving
-  
----
-
 ## 📫 Let’s Connect
 
   
