@@ -15,7 +15,7 @@ I enjoy transforming complex problems into clean, efficient, and maintainable so
 
 What drives me most is **understanding how things work internally** — from frameworks to databases — and applying that knowledge to build reliable applications.
 
-I strongly believe that ambitious projects grow faster and better through **teamwork, discipline, and continuous learning**. I am fully prepared to work autonomously and adapt to international environments, including **Quebec-based schedules (HAE/EDT)**.
+I strongly believe that ambitious projects grow faster and better through **teamwork, discipline, and continuous learning**. I am fully prepared to work autonomously and adapt to international environments.
 
 ---
 ## 🛠️ Tech Stack
